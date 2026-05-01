@@ -1,28 +1,39 @@
-# Factorial and Prime Number Program
+# 🔢 Factorial & Prime Number Checker
 
-## Description
-This program takes a number as input and:
-- Calculates the Factorial of that number
-- Checks whether the number is Prime or Not Prime
+## 📌 About This Project
+A simple C++ console application that:
+- ✅ Calculates **Factorial** of any number
+- ✅ Checks if a number is **Prime or Not Prime**
 
-## Language
-C++
+## 💻 Language Used
 
-## How to Run
-1. Open the file in Dev C++
-2. Press F11 to compile and run
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+
+## 🚀 How to Run
+1. Open `oop program 1.cpp` in **Dev C++**
+2. Press **F11** to Compile & Run
 3. Enter any number
-4. Output will show Factorial and Prime status
+4. See the result!
 
-## Example
-Input: 7
-Output:
+## 📊 Example Output
+Enter a number: 7
 Factorial = 5040
 Prime
 
-## Topics
+## 🧠 Concepts Used
 - Functions
-- Loops
-- OOP
-- C++ Basics# My-First-Program
-C++ program that calculates factorial of a number and checks whether it is prime or not prime
+- For Loops
+- If-Else Conditions
+- Boolean Logic
+- OOP Basics
+
+## 👩‍💻 Author
+**Ayesha Shafique**
+- GitHub: [@ayeshashafique798](https://github.com/ayeshashafique798)
+- Email: ayeshashafique065@gmail.com
+
+## ⭐ Support
+If you like this project, please give it a **Star** ⭐
